@@ -1,2 +1,9 @@
 old_or_unused
 fonts
+*.pdf
+*.aux
+*.fdb_latexmk
+*.log
+*.out
+*.syntex.gz
+.DS_Store
