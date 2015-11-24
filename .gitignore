@@ -5,5 +5,5 @@ fonts
 *.fdb_latexmk
 *.log
 *.out
-*.syntex.gz
+*.synctex.gz
 .DS_Store
