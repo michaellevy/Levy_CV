@@ -1,0 +1,23 @@
+# Research Experience
+**Mental Models of Sustainable Agriculture** UC Davis & UC ANR, 2015 -  
+Participatory workshops around California to elicit experts' causal models of sustainable agriculture. Analysis examines variance in model structure and content across geography, experience, and profession. Implications of policy proposals are simulated via consensus model as transition matrix.  
+
+\ 
+
+**Inference from Statistical Models of Networks** UC Davis, 2015 -  
+Analytical and computational evidence for proper interpretation of estimates on geometrically weighted statistics of exponential random graph models.
+
+\ 
+
+**Dynamics of Fire, Vegetation, and Human Behavior** SESYNC, 2014 -  
+Coupled agent-based model of homeowner adoption of fire-defensive behavior and landscape-scale fire and vegetation dynamics in wildland-urban interface of the Cleavland National Forest in Southern California. Deliniate trajectories of fire dynamics for various climate scenarios and management interventions.
+
+\ 
+
+**Farmer Learning Networks, Cooperation, and Environmental Management** UC Davis, 2013 -   
+Information networks of winegrowers contain abundant structures that are adaptive to solve cooperation dilemmas. Growers use social ties to seek innovation and to build trust for environmental management. Adoption of some sustainability certifications is facilitated by social processes while others are economically driven. 
+
+\ 
+
+**Ecosystem Recovery After Surface Mining** West Virginia University, 2010 - 2012  
+Some aspects of ecosystem structure recover rapidly after reclamation; however, plant and fungal communities remain severely altered in the medium term.
