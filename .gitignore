@@ -1,5 +1,7 @@
 old_or_unused
 fonts
+*.fls
+*.html
 *.pdf
 *.aux
 *.fdb_latexmk
