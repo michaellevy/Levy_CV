@@ -9,3 +9,4 @@ fonts
 *.out
 *.synctex.gz
 .DS_Store
+content_withstatements.md

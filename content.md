@@ -1,4 +1,5 @@
 # Education
+
 2017 (anticipated)
 :   PhD in Ecology: Environmental Policy and Human Ecology, University of California, Davis
 
@@ -12,222 +13,263 @@
 
 
 # Publications
-## Peer-Reviewed Publications
-In review
-:   Mark Lubell, **Michael Levy**, Aseem Prakash, and Matt Potoski. Clubs Old and New: Social Networks and Participation in Voluntary Environmental Programs.
+
+## Refereed Publications
+
+2016
+:   **Michael Levy**. gwdegree: Improving interpretation of geometrically-weighted degree estimates in exponential random graph models. The Journal of Open Source Software 1(3).
 
 2014
 :   **Michael Levy** and Jonathan Cumming. Development of soils and communities of plants and arbuscular mycorrhizal fungi on West Virginia surface mines. Environmental Management 54(5): 1153-1162.
 
-## Non-Refereed Publications
+In revision
+:   Mark Lubell, **Michael Levy**, Aseem Prakash, and Matt Potoski. Clubs old and new: Social networks and participation in voluntary environmental programs.
+
+In review
+:	Marco Bastos, Carlo Piccardi, **Michael Levy**, Neil McRoberts, and Mark Lubell. Core-periphery or decentralized? How centralized networks emerge from sharing specialized agriculture information.
+
+
+## Policy and Outreach Publications
+
+2016
+:	**Michael Levy**, Neil McRoberts, and Mark Lubell. Pillars of sustainable agriculture. Policy brief for UC Division of Agriculture and Natural Resources.
+
+2016
+:	**Michael Levy**, Neil McRoberts, and Mark Lubell. Mental models of sustainable agriculture. Policy brief for UC Division of Agriculture and Natural Resources.
+
 2015
-:   **Michael Levy** and Matthew B. Hoffman. Lodi rules for stustainable winegrowing certification program, 2015 report. 
+:   **Michael Levy** and Matthew Hoffman. Lodi rules for sustainable winegrowing certification program, 2015 report. 
 
 2013
-:   **Michael Levy**. Integrating science, management, and policy for the future of water in California. Eos, 94(29): 256
+:   **Michael Levy**. Integrating science, management, and policy for the future of water in California. Eos, 94(29): 256.
 
 2013
-:   **Michael Levy**, Matthew B. Hoffman, A. Vicken Hillis, and Mark N. Lubell. Sustainability certification: Why do vineyards participate? Policy Brief for UC Davis Policy Institute.
+:   **Michael Levy**, Matthew Hoffman, Vicken Hillis, and Mark Lubell. Sustainability certification: Why do vineyards participate? Policy Brief for UC Davis Policy Institute for Energy, Environment and the Economy.
 
 2013
-:   **Michael Levy**. Measure I is our best option for necessary water improvements. The Davis Enterprise, February 10, 2013: A15
+:   **Michael Levy**. Measure I is our best option for necessary water improvements. The Davis Enterprise, February 10, 2013: A15.
 
 2010 - 2012
-:   **Michael Levy**. Weekly environmental science and policy opinion column. The Daily Athenaeum, 124(12) - 125(94)
-
-
+:   **Michael Levy**. Weekly environmental science and policy opinion column. The Daily Athenaeum, 124(12) - 125(94).
 
 
 # Presentations
+
 ## Invited Talks
-2015
-:   **Michael Levy**. Predicting interdependence: Inference from exponential random graph models of social networks. Statistical Methodology in the Social Sciences Conference, UC Davis Institute for Social Sciences, Davis CA
 
 2015
-:   **Michael Levy**. Exponential random graph models for statistical inference on networks. Statistical Sciences Symposium, UC Davis Department of Statistics, Davis CA
+:   **Michael Levy**. Predicting interdependence: Inference from exponential random graph models of social networks. Statistical Methodology in the Social Sciences Conference, UC Davis Institute for Social Sciences, Davis, CA.
 
-2014
-:   **Michael Levy**. `dplyr`: Data manipulation in R made easy. Davis R-Users' Group, Davis CA
+2015
+:   **Michael Levy**. Exponential random graph models for statistical inference on networks. Statistical Sciences Symposium, UC Davis Department of Statistics, Davis, CA.
 
 ## Professional Conferences
-2015
-:   **Michael Levy** and Mark Lubell. Innovation and cooperation in the structure of agriculture information networks. American Political Science Association Annual Meeting, San Francisco CA
+
+2016
+:	**Michael Levy**. Teaching R to 200 people in a week. International R User Conference, Stanford, CA.
+
+2016
+:	**Michael Levy**, Mark Lubell, Philip Leifeld, Skyler Cranmer. Interpretation of geometrically weighted degree estimates in exponential random graph models. Political Networks Conference, Saint Louis, MO.
+
+2016
+:	**Michael Levy**. Mental models of sustainable agriculture. Duck Family Graduate Workshop on Environmental Politics and Governance, Seattle, WA. 
+
+2016
+:	**Michael Levy**, Mark Lubell, Philip Leifeld, Skyler Cranmer. Estimating and interpreting geometrically weighted statistics in exponential random graph models. Midwest Political Science Association Conference, Chicago, IL.
+
+2016
+:	**Michael Levy**. Mental models of sustainable agriculture. Sunbelt Social Network Conference, Newport Beach, CA.
 
 2015
-:   **Michael Levy** and Mark Lubell. Innovation and cooperation in agricultural information networks. Political Networks Conference, Portland, OR
+:   **Michael Levy** and Mark Lubell. Innovation and cooperation in the structure of agriculture information networks. American Political Science Association Annual Meeting, San Francisco, CA.
 
 2015
-:   **Michael Levy**. Cultural multilevel selection and social networks in sustainable viticulture. Biennial Global Conference: International Association for the Study of the Commons, Edmonton AB, Canada
+:   **Michael Levy** and Mark Lubell. Innovation and cooperation in agricultural information networks. Political Networks Conference, Portland, OR.
+
+2015
+:   **Michael Levy**. Cultural multilevel selection and social networks in sustainable viticulture. Biennial Global Conference: International Association for the Study of the Commons, Edmonton, AB.
 
 2014
-:   **Michael Levy**. Cultural diffusion and polarization: An agent-based model. Center for Advanced Modeling Graduate Workshop, Baltimore MD
+:   **Michael Levy**. Cultural diffusion and polarization: An agent-based model. Center for Advanced Modeling Graduate Workshop, Baltimore, MD.
 
 2014
-:   **Michael Levy**, Matthew B. Hoffman, A. Vicken Hillis, and Mark N. Lubell. Who joins the club? Learning pathways for sustainable agriculture certification. Environmental Politics Conference, Santa Barbara CA
-
-2014
-:   **Michael Levy**, Matthew B. Hoffman, A. Vicken Hillis, and Mark N. Lubell. Sustainable agriculture certification: Who's joining? Interdisciplinary Graduate and Professional Symposium, Davis CA
+:   **Michael Levy**, Matthew B. Hoffman, A. Vicken Hillis, and Mark N. Lubell. Who joins the club? Learning pathways for sustainable agriculture certification. Environmental Politics Conference, Santa Barbara, CA.
 
 2011
-:   **Michael Levy** and Jonathan R. Cumming. Development of soil, biodiversity, and arbuscular mycorrhizae on pasture-reclaimed surface mines in Appalachia. Annual Meeting of the Ecological Society of America, Austin TX
-
-2011
-:   **Michael Levy** and Jonathan R. Cumming. What happens after the mining is done? Development of soils and biodiversity on reclaimed surface mines. Science and Technology in Society, Morgantown WV
+:   **Michael Levy** and Jonathan R. Cumming. Development of soil, biodiversity, and arbuscular mycorrhizae on pasture-reclaimed surface mines in Appalachia. Annual Meeting of the Ecological Society of America, Austin, TX.
 
 ## Outreach Presentations
+
+2016
+:	**Michael Levy**. Automation, lapply, and custom functions in R. Davis R Users' Group, Davis, CA.
+
+2015
+:	**Michael Levy**. ERGM tutorial. UC Davis Interdisciplinary Network Science Group, Davis, CA.
+
 2014
-:   **Michael Levy**. Environmental certifications among viticulturists. Lodi Winegrape Commission, Davis CA
+:   **Michael Levy**. Environmental certifications among viticulturists. Lodi Winegrape Commission, Davis, CA.
+
+2014
+:	**Michael Levy**. dplyr: Data manipulation in R made easy. Davis R Users' Group, Davis, CA.
 
 2012
-:   **Michael Levy**. Stripping wild and wonderful: Truths and myths about surface mining in West Virginia. Science on Tap public science forum, Morgantown WV
+:   **Michael Levy**. Stripping wild and wonderful: Truths and myths about surface mining in West Virginia. Science on Tap public science forum, Morgantown, WV.
 
 2011
-:   **Michael Levy** and Terence Houston. Weighing the long-term implications of mountaintop removal mining. Ecological Society of America podcast, The Ecologist Goes To Washington
+:   **Michael Levy** and Terence Houston. Weighing the long-term implications of mountaintop removal mining. Ecological Society of America podcast, The Ecologist Goes To Washington.
 
 2011
-:   Bob H. Baber, Ted Boettner, **Michael Levy**, and Jeff G. Skousen. Coal: The lifeblood of West Virginia? Democracy Matters panel discussion, Morgantown WV
+:   Bob H. Baber, Ted Boettner, **Michael Levy**, and Jeff G. Skousen. Coal: The lifeblood of West Virginia? Democracy Matters panel discussion, Morgantown, WV.
 
 
 
 
 
 # Awards
+
+2016
+:   Fire on the Fringe: A coupled agent-based model of homeowner and wildfire behavior in Southern California, National Socio-Environmental Synthesis Center (SESYNC) Graduate Research Fellow, $2,000.
+
+2016
+:	Improving statistical inference on networks. Amazon Web Services Research Grant, $703.
+
 2015
-:   Professors for the Future Fellowship, UC Davis
+:   Professors for the Future Fellowship, $3,000.
 
 2014
-:   Fire on the Fringe, SESYNC Graduate Student Pursuit (co-PI)
+:   Sustainable Agriculture Scholarship, Annie's Homegrown, $2,500.
 
 2014
-:   Sustainable Agriculture Scholarship, Annie's Homegrown
-
-2014
-:   Henry A. Jastro Research Award, UC Davis College of Agricultural and Environmental Sciences
+:   Henry A. Jastro Research Award, UC Davis College of Agricultural and Environmental Sciences, $1,500.
 
 2012
-:   Climate Change, Water, and Society, Integrative Graduate Education Research Traineeship, National Science Foundation
+:   Climate Change, Water, and Society, Integrative Graduate Education Research Traineeship, National Science Foundation, $115,000.
 
 2012
-:   Ecology Fellowship, UC Davis Graduate Group in Ecology
+:   Ecology Fellowship, UC Davis, $51,000.
 
 2011
-:   Graduate Student Policy Award, Ecological Society of America
+:   Graduate Student Policy Award, Ecological Society of America.
 
 2009
-:   HERF Supplementary Fellowship, West Virginia University
-
-2004
-:   Senior Award, Fort Lewis College, Department of Chemistry
-
-2003
-:   Callendar Chemistry Scholarship, Fort Lewis College
-
-2003
-:   Research Experience for Undergraduates, National Science Foundation
-
+:   HERF Supplementary Fellowship, West Virginia University, $2,000.
 
 
 
 
  
 # Teaching Experience
+
 ## University of California, Davis
-2015
-:   Instructor, R Bootcamp. Developed and taught one-week, 30-classroom hour intensive introduction to the statistical programming language `R`. Attended by 200 graduate students and post-docs
+
+2016
+:	Teaching Assistant, Statistical Rethinking: PhD-level course on applied computational Bayesian data analysis, with Richard McElreath. 
 
 2015
-:   Co-Instructor, Data Carpentry Workshop
+:   Developer and Instructor, R Bootcamp: Week-long intensive introduction to the statistical programming language R for 200 graduate students and postdoctoral scholars.
 
 2013
-:   Organizer and Lead, Seminar on agent-based models for the study of coupled human and natural systems
+:   Organizer and Lead, Seminar on agent-based models for the study of coupled human and natural systems.
+
+## Software and Data Carpentry
+
+2016
+:	Developer and Co-Instructor, Pilot Social Sciences Data Carpentry Workshop, UC Davis.
+
+2016
+:	Co-Instructor, Software Carpentry Workshop, Stanford University.
+
+2015
+:   Co-Instructor, Data Carpentry Workshop, UC Davis.
 
 ## Interuniversity Consortium for Political and Social Research (ICPSR)
+
 2015
-:   Teaching Assistant, Introduction to Social Network Analysis in R
+:   Teaching Assistant, Introduction to Social Network Analysis in R, with Lorien Jasny.
 
 ## West Virginia University
+
 2011
-:   Teaching Assistant, Environmental Biology Laboratory
+:   Teaching Assistant, Environmental Biology Laboratory.
 
 2010 - 2011
-:   Teaching Assistant, Biology Capstone Course: Total Science Experience
+:   Teaching Assistant, Total Science Experience: Mentored small group research projects from proposal to presentation. 
 
 2009 - 2010
-:    Teaching Assistant, Principles of Biology Laboratory
+:    Teaching Assistant, Principles of Biology Laboratory.
 
 ## Other
+
 2008 - 2009
-:   English as a Foreign Language Teacher, Dogye Elementary School, Gangwon-do South Korea
+:   English as a Foreign Language Teacher, Dogye Elementary School, Gangwon-do, South Korea.
 
 2007 - 2008
-:   MCAT Instructor, The Princeton Review, Boulder CO
+:   MCAT Instructor, The Princeton Review, Boulder CO.
 
 2005 - 2006
-:   English as a Foreign Language Teacher, Han Yun Sik English Academy, Busan South Korea
-
-## Fort Lewis College
-2004
-:   Teaching Assistant, Organic Chemistry Laboratory
-
-2003
-:   Teaching Assistant, Analytical Chemistry Laboratory
-
-2001 - 2003
-:   Teaching Assistant, General Chemistry Laboratory
+:   English as a Foreign Language Teacher, Han Yun Sik English Academy, Busan South Korea.
 
 
 
 # Additional Education
-2015
-:   Instructor training. Software Carpentry, Davis CA
 
-2014
-:   Social Media and Socio-Environmental Systems. SESYNC workshop, Annapolis MD
+2016
+:	Text Analytics, Interuniversity Consortium for Political and Social Research, Ann Arbor, MI.
+
+2015
+:	Seminar on College Teaching, Center for Educational Effectiveness, Davis, CA.
+
+2015
+:   Instructor training, Software Carpentry, Davis, CA.
 
 2013
-:   Multi-platform International Summer School on Agent-Based Modeling and Simulation. Cirad, Montpellier France
+:   Multi-platform International Summer School on Agent-Based Modeling and Simulation, Cirad, Montpellier, France.
 
 2011
-:   Becoming the Messenger. Science communication training, National Science Foundation, Morgantown WV
+:   Becoming the Messenger: Science communication training, National Science Foundation, Morgantown, WV.
 
 2011
-:   Lobbying Congress for Science, Biological Ecological Sciences Coalition, Washington DC
+:   Lobbying Congress for Science, Biological Ecological Sciences Coalition, Washington DC.
 
 
 
 
 
 # Service
+
 ## UC Davis
-2015 -
-:   Mentor, Dustan Li Undergraduate Research Project
 
 2015 -
-:   Co-administrator, Davis R Users' Group
+:   Co-Administrator, Davis R Users' Group.
+
+2015 - 
+:   Founder & Administrator, Interdisciplinary Network Science Group.
 
 2013 -
-:   Member, Admissions Committee, Graduate Group in Ecology
+:   Member, Admissions Committee, Graduate Group in Ecology.
 
 2015
-:   Founder, Interdisciplinary Network Science Group
+:   Graduate Student Representative, Climate Policy Faculty Search Committee, Department of Environmental Science and Policy.
 
 2015
-:   Graduate Student Representative, Climate Policy Faculty Search Committee, Department of Environmental Science and Policy
+:   Mentor, Dustan Li Undergraduate Research Project.
 
 2013
-:   Mentor, AggieMentors high school student research program
+:   Mentor, AggieMentors high school student research program.
 
 2013
-:   Organizer, Future of Water in California Conference
+:   Co-organizer, Future of Water in California Conference.
 
 2013
-:   Delegate, UC Day in DC
+:   Delegate, UC Day in DC.
 
 ## West Virginia University
+
 2010 - 2011
-:   Mentor, Kylen Whipp Undergraduate Honors Thesis
+:   Mentor, Kylen Whipp Undergraduate Honors Thesis.
 
 ## Fort Lewis College
+
 2003 - 2004
 :   President, Chemistry Club
 
@@ -237,32 +279,6 @@ In review
 2002 - 2004
 :   President and Vice President, Uniting Students through Wellness
 
-**********
+## Referee
 
-# Teaching statement
-
-## Teaching philosophy
-
-Teaching is a performance art, and my first priority is holding my students' attention. Enthusiasm goes a long way, and I bring the joy and satisfaction that computing and statistics bring me into the classroom. Also critical is showing students the payoff of what they are learning, early and often. This motivates struggling through challenging details, which is especially important for detail-heavy methods courses. Even better than showing students the payoff is giving them an experiential taste of it. 
-\medskip
-
-I start my introduction to scientific computing classes with advanced visualization -- within the first class session students are creating beautiful, informative plots. Of course, they don't understand the details of the code that generated the plots, but they can play with it, and this connection to the material sustains motivation to wrestle with details in the weeks to come. 
-\medskip
-
-I subscribe to the philosophy of student-centered learning and the strategy of backward course design. This means that I start planning a course by defining the students' learning objectives in the context of their degree program; then I design summative assessments, completing which demonstrates meeting the objectives; and lastly I design lectures, activities, and formative assessments to get students to the point where they can complete the summative assessments and so reach the course objectives. I structure a lot of interactivity in the classroom, both among students and between myself and students, and I also ask for regular feedback, for example, using a quick Google Form to have students rate their understanding of a week's material, which I might quickly plot and show the students. This interaction helps keep me and the students aware of how well everyone is doing. That gives the students a better sense of how they might need to adjust their effort or when it would be beneficial to others to interrupt the class to ask a question, and it allows me to adjust my pace and methods to student needs. 
-\medskip
-
-I build flexibility into my methods courses by writing code in front of the class in every lecture. This might seem like an odd approach, but it has significant advantages and has worked very well for myself and others. It provides integrated flexibility; it forces slower delivery which tends to align well with the rate at which students absorb information; it shows the process of doing scientific computing rather than just the product; it demonstrates that I make mistakes and how I diagnose and fix them; and it allows me to demonstrate how I use the computer to figure out tough concepts. I generally deliver the code I write to students in real-time through a web link so that they can try to code along with me but can catch up by referencing my code if they miss something. They can then switch seamlessly from following along with my code to writing their own code during in-class exercises, which I use extensively.
-
-## Teaching experience
-
-I have taught a wide variety of subjects across all student levels. During my doctoral studies, I served as a Teaching Assistant for a PhD-level Bayesian statistics class for which the professor was out of the country for the duration of course (lectures were pre-recorded and I was the primary contact for the XX students). As part of my Professors for the Future Fellowship, I developed a one-week, 30-classroom-hour intensive introduction to the statistical programming language `R`. The course was made available to graduate students and post-docs at UC Davis, over 350 of whom registered. I delivered the class to 200 students, and it was widely well reviewed (Mean student evaluations: instructor's overall teaching: 4.6/5, inspired and motivated student interest: 4.7/5, demonstrated concern for student learning: 4.9/5). I also TA-ed for the Interuniversity Consortium for Political and Social Research (ICPSR) during the summers of my PhD program.
-\medskip
-
-During my master's, I taught a capstone Biology course in which groups of undergraduates executed a research project from conceptualization and proposal to analysis and presentation in a semester, and I TA-ed introductory and environmental biology courses. I TA-ed chemistry laboratories as an undergraduate, and between my undergraduate and graduate programs, I taught English in South Korea and Medical College Admission Test (MCAT) preparation for the Princeton Review. 
-
-I have also mentored many student research projects. In addition to the above-mentioned research class, I mentored an undergraduate's honor's thesis on the effects of coal ash application to surface mines during my master's. I also incorporated an undergraduate into my doctoral research and mentored high school students' research projects through the EnviroMentors program. 
-
-## Teaching interests
-
-I am primarily interested in teaching applied methodology courses at a variety of levels. I enjoy showing students how a computational or statistical technique can provide insight into a substantive question of interest. I can teach undergraduate and graduate statistics and can incorporate computation into those classes in such a way that builds that skill as well as bolstering statistical understanding. I would love to teach advanced classes in network analysis and agent-based modeling. I could also teach computing classes largely separate statistics, covering topics such as version control, data and code management, and automation through shell scripting. Substantively, I am qualified to teach classes on individual decision making, policy analysis, and social-ecological systems.
+PLOS ONE
