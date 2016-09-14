@@ -1,15 +1,13 @@
 # Education
 
-2017 (anticipated)
-:   PhD in Ecology: Environmental Policy and Human Ecology, University of California, Davis
+2017
+:   PhD in Ecology: Environmental Policy and Human Ecology, University of California, Davis (expected)
 
 2012
 : MS in Biology, West Virginia University
 
 2004
 :   BS in Chemistry, Fort Lewis College
-
-
 
 
 # Publications
@@ -22,11 +20,26 @@
 2014
 :   **Michael Levy** and Jonathan Cumming. Development of soils and communities of plants and arbuscular mycorrhizal fungi on West Virginia surface mines. Environmental Management 54(5): 1153-1162.
 
-In revision
+## Manuscripts in Review
+
+\phantom{2016}
+:	**Michael Levy** and Mark Lubell. Structural signatures of cooperation, innovation, and boundary spanning in agriculture knowledge networks.
+
+\phantom{2016}
+:	Marco Bastos, Carlo Piccardi, **Michael Levy**, Neil McRoberts, and Mark Lubell. Core-periphery or decentralized? How centralized networks emerge from sharing specialized agriculture information.
+
+
+## Manuscripts in Preparation
+
+\phantom{2016}
+:	**Michael Levy**, Mark Lubell, Philip Leifeld, and Skyler Cramner. Use and interpretation of geometrically weighted degree in exponential random graph models.
+
+\phantom{2016}
+:	**Michael Levy**, Patrick Bitterman, Kenny Wallen, Katie Lyon, Ellen Esch, and Michael Saha. Generation of an empircally based agent population for a coupled model of fire and homeowner behavior in the wildland-urban interface.
+
+\phantom{2016}
 :   Mark Lubell, **Michael Levy**, Aseem Prakash, and Matt Potoski. Clubs old and new: Social networks and participation in voluntary environmental programs.
 
-In review
-:	Marco Bastos, Carlo Piccardi, **Michael Levy**, Neil McRoberts, and Mark Lubell. Core-periphery or decentralized? How centralized networks emerge from sharing specialized agriculture information.
 
 
 ## Policy and Outreach Publications
@@ -53,15 +66,40 @@ In review
 :   **Michael Levy**. Weekly environmental science and policy opinion column. The Daily Athenaeum, 124(12) - 125(94).
 
 
+# Awards
+
+2016
+:   Fire on the Fringe: A coupled agent-based model of homeowner and wildfire behavior in Southern California, National Socio-Environmental Synthesis Center (SESYNC) Graduate Research Fellow, $2,000.
+
+2016
+:	Improving statistical inference on networks, Amazon Web Services Cloud Credits for Research Grant, $703.
+
+2016
+:	Political Networks Conference Travel Grant, $900.
+
+2015
+:   Professors for the Future Fellowship, $3,000.
+
+2014
+:   Sustainable Agriculture Scholarship, Annie's Homegrown, $2,500.
+
+2014
+:   Henry A. Jastro Research Award, UC Davis College of Agricultural and Environmental Sciences, $1,500.
+
+2012
+:   Climate Change, Water, and Society, Integrative Graduate Education Research Traineeship, National Science Foundation, $115,000.
+
+2012
+:   Ecology Fellowship, UC Davis, $51,000.
+
+2011
+:   Graduate Student Policy Award, Ecological Society of America.
+
+2009
+:   HERF Supplementary Fellowship, West Virginia University, $2,000.
+
+
 # Presentations
-
-## Invited Talks
-
-2015
-:   **Michael Levy**. Predicting interdependence: Inference from exponential random graph models of social networks. Statistical Methodology in the Social Sciences Conference, UC Davis Institute for Social Sciences, Davis, CA.
-
-2015
-:   **Michael Levy**. Exponential random graph models for statistical inference on networks. Statistical Sciences Symposium, UC Davis Department of Statistics, Davis, CA.
 
 ## Professional Conferences
 
@@ -93,15 +131,21 @@ In review
 :   **Michael Levy**. Cultural diffusion and polarization: An agent-based model. Center for Advanced Modeling Graduate Workshop, Baltimore, MD.
 
 2014
-:   **Michael Levy**, Matthew B. Hoffman, A. Vicken Hillis, and Mark N. Lubell. Who joins the club? Learning pathways for sustainable agriculture certification. Environmental Politics Conference, Santa Barbara, CA.
+:   **Michael Levy**, Matthew Hoffman, Vicken Hillis, and Mark Lubell. Who joins the club? Learning pathways for sustainable agriculture certification. Environmental Politics Conference, Santa Barbara, CA.
 
 2011
-:   **Michael Levy** and Jonathan R. Cumming. Development of soil, biodiversity, and arbuscular mycorrhizae on pasture-reclaimed surface mines in Appalachia. Annual Meeting of the Ecological Society of America, Austin, TX.
+:   **Michael Levy** and Jonathan Cumming. Development of soil, biodiversity, and arbuscular mycorrhizae on pasture-reclaimed surface mines in Appalachia. Annual Meeting of the Ecological Society of America, Austin, TX.
 
 ## Outreach Presentations
 
 2016
 :	**Michael Levy**. Automation, lapply, and custom functions in R. Davis R Users' Group, Davis, CA.
+
+2015
+:   **Michael Levy**. Exponential random graph models for statistical inference on networks. Statistical Sciences Symposium, UC Davis Department of Statistics, Davis, CA.
+
+2015
+:   **Michael Levy**. Predicting interdependence: Inference from exponential random graph models of social networks. Statistical Methodology in the Social Sciences Conference, UC Davis Institute for Social Sciences, Davis, CA.
 
 2015
 :	**Michael Levy**. ERGM tutorial. UC Davis Interdisciplinary Network Science Group, Davis, CA.
@@ -119,40 +163,7 @@ In review
 :   **Michael Levy** and Terence Houston. Weighing the long-term implications of mountaintop removal mining. Ecological Society of America podcast, The Ecologist Goes To Washington.
 
 2011
-:   Bob H. Baber, Ted Boettner, **Michael Levy**, and Jeff G. Skousen. Coal: The lifeblood of West Virginia? Democracy Matters panel discussion, Morgantown, WV.
-
-
-
-
-
-# Awards
-
-2016
-:   Fire on the Fringe: A coupled agent-based model of homeowner and wildfire behavior in Southern California, National Socio-Environmental Synthesis Center (SESYNC) Graduate Research Fellow, $2,000.
-
-2016
-:	Improving statistical inference on networks. Amazon Web Services Research Grant, $703.
-
-2015
-:   Professors for the Future Fellowship, $3,000.
-
-2014
-:   Sustainable Agriculture Scholarship, Annie's Homegrown, $2,500.
-
-2014
-:   Henry A. Jastro Research Award, UC Davis College of Agricultural and Environmental Sciences, $1,500.
-
-2012
-:   Climate Change, Water, and Society, Integrative Graduate Education Research Traineeship, National Science Foundation, $115,000.
-
-2012
-:   Ecology Fellowship, UC Davis, $51,000.
-
-2011
-:   Graduate Student Policy Award, Ecological Society of America.
-
-2009
-:   HERF Supplementary Fellowship, West Virginia University, $2,000.
+:   Bob Baber, Ted Boettner, **Michael Levy**, and Jeff Skousen. Coal: The lifeblood of West Virginia? Democracy Matters panel discussion, Morgantown, WV.
 
 
 
@@ -178,6 +189,9 @@ In review
 
 2016
 :	Co-Instructor, Software Carpentry Workshop, Stanford University.
+
+2016
+:	Co-Instructor, Software Carpentry Workshop, UC Davis.
 
 2015
 :   Co-Instructor, Data Carpentry Workshop, UC Davis.
@@ -245,6 +259,9 @@ In review
 2015 - 
 :   Founder & Administrator, Interdisciplinary Network Science Group.
 
+2014 -
+:	Maintainer, Statistics Courses Guide, Ecology Graduate Student Association.
+
 2013 -
 :   Member, Admissions Committee, Graduate Group in Ecology.
 
@@ -267,18 +284,3 @@ In review
 
 2010 - 2011
 :   Mentor, Kylen Whipp Undergraduate Honors Thesis.
-
-## Fort Lewis College
-
-2003 - 2004
-:   President, Chemistry Club
-
-2002 - 2004
-:   Co-Founder, Green Chemistry
-
-2002 - 2004
-:   President and Vice President, Uniting Students through Wellness
-
-## Referee
-
-PLOS ONE
