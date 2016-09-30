@@ -23,7 +23,7 @@
 ## Manuscripts in Review
 
 \phantom{2016}
-:	**Michael Levy** and Mark Lubell. Structural signatures of cooperation, innovation, and boundary spanning in agriculture knowledge networks.
+:	**Michael Levy** and Mark Lubell. Structural signatures of innovation, cooperation, and boundary spanning in agriculture knowledge networks.
 
 \phantom{2016}
 :	Marco Bastos, Carlo Piccardi, **Michael Levy**, Neil McRoberts, and Mark Lubell. Core-periphery or decentralized? How centralized networks emerge from sharing specialized agriculture information.
