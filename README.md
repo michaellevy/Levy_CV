@@ -1,12 +1,10 @@
 # Levy_CV
 
-To compile
+To compile:
 
-1. Update content.md
-1. Shell: 
-
+Update content.md
 ```
-pandoc content.md -o content.tex
+pandoc content.md -o content.tex  
 latexmk -cd -e -f -lualatex -interaction=nonstopmode -synctex=1 Levy_CV.tex
 ```
 
